@@ -11,17 +11,9 @@
 <br/>
 
 <!-- SOCIAL ICONS -->
-<a href="mailto:vandai06112007@gmail.com">
-  <img src="https://img.shields.io/badge/%20-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="40" style="border-radius:50%"/>
-</a>
-&nbsp;
-<a href="https://www.facebook.com/pham.ai.197182/">
-  <img src="https://img.shields.io/badge/%20-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="40" style="border-radius:50%"/>
-</a>
-&nbsp;
-<a href="https://github.com/lmao611">
-  <img src="https://img.shields.io/badge/%20-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="40" style="border-radius:50%"/>
-</a>
+[![Gmail](https://img.shields.io/badge/%20-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vandai06112007@gmail.com)&nbsp;
+[![Facebook](https://img.shields.io/badge/%20-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/pham.ai.197182/)&nbsp;
+[![GitHub](https://img.shields.io/badge/%20-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lmao611)
 
 </div>
 
