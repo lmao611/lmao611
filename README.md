@@ -1,17 +1,33 @@
-<h1 align="center">Hi 👋, I'm Dai</h1>
-<h3 align="center">A student of HCMIU - VNUHCM</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lmao611&label=Profile%20views&color=0e75b6&style=flat" alt="lmao611" /> </p>
+  <!-- Cyberpunk Banner / Header -->
+  <a href="https://github.com/lmao611">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20&height=220&section=header&text=PHẠM%20VĂN%20ĐẠI&fontSize=42&fontAlignY=38&desc=Sinh%20viên%20%7C%20Backend%20Developer&descAlignY=58&descAlign=50&theme=cyberpunk" width="100%" alt="Header Banner" />
+  </a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lmao611" alt="lmao611" /></a> </p>
+  <!-- Typing SVG Animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F5D4&center=true&vCenter=true&random=false&width=550&height=50&lines=%22Trying+to+be+better%22;Student+%7C+Backend+Developer;Exploring+the+depths+of+Java+%26+C%2FC%2B%2B;Building+clean+%26+scalable+systems" alt="Typing SVG" />
+  </a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/pham.ai.197182" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pham.ai.197182" height="30" width="40" /></a>
-<a href="https://instagram.com/nordajid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nordajid" height="30" width="40" /></a>
-</p>
+  <p>
+    <a href="mailto:vandai06112007@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-vandai06112007%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=FF007F" alt="Email Badge" />
+    </a>
+    <a href="https://www.facebook.com/pham.ai.197182/" target="_blank">
+      <img src="https://img.shields.io/badge/Facebook-Phạm%20Văn%20Đại-1877F2?style=for-the-badge&logo=facebook&logoColor=white&color=00F0FF" alt="Facebook Badge" />
+    </a>
+  </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lmao611&show_icons=true&locale=en" alt="lmao611" /></p>
+---
+
+### 👾 About Me
+
+```yaml
+name: Phạm Văn Đại
+role: Student & Aspiring Backend Developer
+mindset: "Trying to be better"
+learning_focus: System architecture, Algorithms & Performance optimization
+current_goal: Master core backend principles & build robust applications
